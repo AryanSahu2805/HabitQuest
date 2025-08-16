@@ -1,6 +1,3 @@
-CODE WRITTEN BY: ARYAN SAHU
-DEPLOYMENT CONFIGURATIONS BY: ANTONINA ORLANOVA
-
 HabitQuest
 
 A habit-tracking web application with gamification, email notifications, and Instagram sharing.
