@@ -7,8 +7,24 @@
 
 > **Transform your daily habits into an epic journey with HabitQuest - where every goal achieved brings you closer to greatness!**
 
+## 📸 Screenshots & Demo
+
+### 🎬 **Demo Video**
+Watch HabitQuest in action! [View Demo Video](./Assets/Habitquest%20Demo%20copy.mp4)
+
+### 🖼️ **Application Screenshots**
+
+#### Landing Page
+![HabitQuest Landing Page](./Assets/Habit%20Tracker%20Landing%20Page%20copy.png)
+*Welcome to HabitQuest - Your journey to better habits starts here!*
+
+#### Dashboard
+![HabitQuest Dashboard](./Assets/Habit%20Tracker%20Dashboard%20copy.png)
+*Track your progress, manage goals, and interact with your virtual pet companion*
+
 ## 📖 Table of Contents
 
+- [Screenshots & Demo](#-screenshots--demo)
 - [Overview](#-overview)
 - [✨ Features](#-features)
 - [🚀 Tech Stack](#-tech-stack)
